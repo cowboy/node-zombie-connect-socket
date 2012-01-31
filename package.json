@@ -1,0 +1,37 @@
+{
+  "name": "node-zombie-connect-socket",
+  "description": "zombie <-> connect, without a physical port.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/cowboy/node-zombie-connect-socket",
+  "author": {
+    "name": "\"Cowboy\" Ben Alman",
+    "url": "http://benalman.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:cowboy/node-zombie-connect-socket.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cowboy/node-zombie-connect-socket/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "/blob/master/LICENSE-MIT"
+    }
+  ],
+  "dependencies": {
+    "connect": "~1.8.5",
+    "hooker": "~0.2.3",
+    "temporary": "~0.0.2",
+    "zombie": "~0.12.13"
+  },
+  "devDependencies": {
+    "grunt": "~0.2.9"
+  },
+  "keywords": [],
+  "engines": {
+    "node": ">= 0.6.0"
+  },
+  "main": "lib/tutorial"
+}
