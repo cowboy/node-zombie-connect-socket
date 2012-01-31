@@ -6,6 +6,10 @@ _(Which is necessary because relative URLs don't seem to work in zombie when fil
 
 Tested in Node.js 0.6.8 on OS X.
 
+## Take a look
+
+View [the JavaScript source](https://github.com/cowboy/node-zombie-connect-socket/blob/master/lib/tutorial.js) to see what I did.
+
 ## Try it out
 This isn't in npm.
 
